@@ -51,7 +51,8 @@ Developed by: RegisterNumber:*/24004630
 ![exp_2](https://github.com/user-attachments/assets/e843b406-0362-45ba-a7a6-cdf676a1ca16)
 
 **Timing Diagram**
-![Waveform](https://github.com/user-attachments/assets/0233b9fa-b574-4306-9d6f-fda8c7da2583)
+![Waveform](https://github.com/user-attachments/assets/7ba31b37-023e-48e3-adc1-b926eb7ea303)
+
 
 **Result:**
 
